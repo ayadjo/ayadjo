@@ -1,6 +1,6 @@
 # :wave: Hello!
-
-I’m currently a final-year student at Faculty of Technical Sciences, Univeristy of Novi Sad.
+🔭
+<img src="https://rishavanand.github.io/static/images/greetings.gif"/> I’m currently a final-year student at Faculty of Technical Sciences, Univeristy of Novi Sad.
 <div align="left">
     <a href="mailto:andjela1108@gmail.com" target="_blank">
         <img width="70" height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Gmail"/>
@@ -54,10 +54,12 @@ I’m currently a final-year student at Faculty of Technical Sciences, Univerist
 ## :basketball: My Hobbies
 When I'm not coding, you can find me playing volleyball, exploring psychology, or trying new recipes in the kitchen.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayadjo&show_icons=true&locale=en&layout=compact" alt="ayadjo" /></p>
+
+<!--Statistika-->
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayadjo&show_icons=true&locale=en&layout=compact" alt="ayadjo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayadjo&show_icons=true&locale=en" alt="ayadjo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayadjo&" alt="ayadjo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayadjo&" alt="ayadjo" /></p> -->
 
 
