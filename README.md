@@ -51,10 +51,10 @@
 <br><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayadjo&" alt="ayadjo" /></p> 
 
-![GitHub Contributions](https://github.com/ayadjo/ayadjo/blob/main/assets/contributions.svg)
+<!--![GitHub Contributions](https://github.com/ayadjo/ayadjo/blob/main/assets/contributions.svg)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayadjo&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayadjo)
-![Trophy](https://github-profile-trophy.vercel.app/?username=ayadjo)
+![Trophy](https://github-profile-trophy.vercel.app/?username=ayadjo)-->
 
 
 
