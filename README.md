@@ -1,4 +1,4 @@
-# :wave: Hello!
+# {gifs/wave} Hello!
 
 I’m currently a final-year student at Faculty of Technical Sciences, Univeristy of Novi Sad.
 <div align="left">
@@ -35,14 +35,6 @@ I’m currently a final-year student at Faculty of Technical Sciences, Univerist
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>
 	<img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt="Docker" title="Docker"/></code>
 </div>
-
-## Version Control
-<div align="left">
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="Github" title="Github"/>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="Gitlab" title="Gitlab"/>
-</div>
-
 ## Tools
 <div align="left">
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="Go" title="Go"/>
@@ -52,7 +44,16 @@ I’m currently a final-year student at Faculty of Technical Sciences, Univerist
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="neo4j"/>
 </div>
 
+## Version Control
+<div align="left">
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="Github" title="Github"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="Gitlab" title="Gitlab"/>
+</div>
+
+
+
 ## :basketball: My Hobbies
-When I'm not coding, you can find me playing volleyball, exploring psychology, rollerblading, or trying new recipes in the kitchen.
+When I'm not coding, you can find me playing volleyball, exploring psychology, or trying new recipes in the kitchen.
 
 
