@@ -2,7 +2,7 @@
 
 I’m currently a final-year student at Faculty of Technical Sciences, Univeristy of Novi Sad.
 <div align="left">
-	<img width="90" height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Gmail"/>
+	<img width="70" height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Gmail"/>
 	<img width="90" height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" title="Linkedin"/>
 </div>
 
