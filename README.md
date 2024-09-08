@@ -1,4 +1,4 @@
-# {gifs/wave} Hello!
+# :wave: Hello!
 
 I’m currently a final-year student at Faculty of Technical Sciences, Univeristy of Novi Sad.
 <div align="left">
@@ -15,7 +15,7 @@ I’m currently a final-year student at Faculty of Technical Sciences, Univerist
 </div>
 
 
-## Languages & Tools
+## Languages and Tools
 
 <div align="left">
 	<!--<img width="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/>-->	
@@ -34,15 +34,13 @@ I’m currently a final-year student at Faculty of Technical Sciences, Univerist
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/182884027-02cf00e4-6ac5-49a8-816d-3287a26bc5b4.png" alt="neo4j" title="neo4j"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>
 	<img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt="Docker" title="Docker"/></code>
-</div>
-## Tools
-<div align="left">
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="Go" title="Go"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android" title="Android"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="PostgreSQL" title="PostgreSQL"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" alt="Eclipse" title="MySQL"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="neo4j"/>
 </div>
+
 
 ## Version Control
 <div align="left">
