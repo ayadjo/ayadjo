@@ -16,7 +16,7 @@
 </div>
 
 
-## Languages and Tools
+## 💻 Languages and Tools
 
 <div align="left">
 	<!--<img width="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/>-->	
@@ -43,7 +43,7 @@
 </div>
 
 
-## Version Control
+## 🧑‍🤝‍🧑 Version Control
 <div align="left">
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="Github" title="Github"/>
@@ -52,7 +52,7 @@
 
 
 
-## 🏐: My Hobbies
+## 🏐 My Hobbies
 When I'm not coding, you can find me playing volleyball, exploring psychology, or trying new recipes in the kitchen.
 
 
