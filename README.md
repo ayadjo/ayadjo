@@ -8,11 +8,12 @@ I’m currently a final-year student at Faculty of Technical Sciences, Univerist
     <a href="https://www.linkedin.com/in/andjela-djordjevic-/" target="_blank">
         <img width="90" height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" title="Linkedin"/>
     </a>
-    <a href="https://your-cv-link.com" target="_blank">
+    <!--<a href="https://your-cv-link.com" target="_blank">
   	<img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=resume&logoColor=white" alt="Resume"/>
-    </a>
+    </a>-->
 
 </div>
+
 
 ## Languages & Tools
 
@@ -50,5 +51,8 @@ I’m currently a final-year student at Faculty of Technical Sciences, Univerist
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" alt="Eclipse" title="MySQL"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="neo4j"/>
 </div>
+
+## :basketball: My Hobbies
+When I'm not coding, you can find me playing volleyball, exploring psychology, rollerblading, or trying new recipes in the kitchen.
 
 
