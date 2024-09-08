@@ -39,4 +39,4 @@
 </div>
 
 ## Connect with me
-[<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="auto"/>](www.linkedin.com/in/anđela-đorđević-) 
+[<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="auto"/>](www.linkedin.com/in/andjela-djordjevic-) 
