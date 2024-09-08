@@ -1,4 +1,11 @@
 # :wave: Hello!
+
+I’m currently a final-year student at Faculty of Technical Sciences, Univeristy of Novi Sad.
+<div>
+	<img width="50" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Gmail"/>
+	<img width="50" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" title="Linkedin"/>
+</div>
+
 ## Languages & Tools
 
 <div align="left">
@@ -38,5 +45,4 @@
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="neo4j"/>
 </div>
 
-## Connect with me
-[<img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="linkedin" height="auto"/>](www.linkedin.com/in/andjela-djordjevic-) 
+
