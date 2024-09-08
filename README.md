@@ -9,17 +9,12 @@
     <a href="https://www.linkedin.com/in/andjela-djordjevic-/" target="_blank">
         <img width="90" height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" title="Linkedin"/>
     </a>
-    <!--<a href="https://your-cv-link.com" target="_blank">
-  	<img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=resume&logoColor=white" alt="Resume"/>
-    </a>-->
-
 </div>
 
 
 ## Languages and Tools
 
-<div align="left">
-	<!--<img width="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/>-->	
+<div align="left">	
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" title="Angular"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue.js" title="Vue.js"/>
@@ -49,11 +44,6 @@
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="Github" title="Github"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="Gitlab" title="Gitlab"/>
 </div>
-
-
-
-<!--## My Hobbies
-When I'm not coding, you can find me playing volleyball, exploring psychology, or trying new recipes in the kitchen.-->
 
 
 <!--Statistika-->
