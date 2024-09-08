@@ -39,4 +39,4 @@
 </div>
 
 ## Connect with me
-[<img align="center" src="https://i.sstatic.net/gVE0j.png" alt="linkedin" height="auto"/>](www.linkedin.com/in/andjela-djordjevic-) 
+[<img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="linkedin" height="auto"/>](www.linkedin.com/in/andjela-djordjevic-) 
