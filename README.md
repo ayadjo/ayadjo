@@ -52,8 +52,8 @@
 
 
 
-## My Hobbies
-When I'm not coding, you can find me playing volleyball, exploring psychology, or trying new recipes in the kitchen.
+<!--## My Hobbies
+When I'm not coding, you can find me playing volleyball, exploring psychology, or trying new recipes in the kitchen.-->
 
 
 <!--Statistika-->
