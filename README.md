@@ -1,8 +1,8 @@
 # :wave: Hello!
 
 I'm Anđela — a final-year student at the Faculty of Technical Sciences, University of Novi Sad, with a strong interest in backend development.
-<div align="left">
-    <p>You can connect with me on:</p>
+<div style="display: flex; align-items: center; gap: 10px;">
+    <p style="margin: 0;">You can connect with me on:</p>
     <a href="mailto:andjela1108@gmail.com" target="_blank">
         <img width="70" height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Gmail"/>
     </a>
