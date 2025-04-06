@@ -2,7 +2,7 @@
 
 I'm Anđela — a final-year student at the Faculty of Technical Sciences, University of Novi Sad, with a strong interest in backend development.
 
-You can connect with me on: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:andjela1108@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andjela-djordjevic-/)
+You can connect with me on:  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:andjela1108@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andjela-djordjevic-/)
 
 
 <br><br>
